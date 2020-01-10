@@ -1,5 +1,5 @@
 global:
-  ingressSubdomain: <dev-cluster-name>.us-south.containers.appdomain.cloud
+  ingressSubdomain: dev-cho.us-south.containers.appdomain.cloud
   tlsSecretName: au-icr-io
 
 <app-chart-name>:
